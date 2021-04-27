@@ -4,7 +4,7 @@ spring:
     type: com.zaxxer.hikari.HikariDataSource
     url: jdbc:mysql://localhost:3306/test
     username: root
-    password: nayab2253
+    password: root
     hikari:
       poolName: Hikari
       auto-commit: false
